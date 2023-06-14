@@ -1,0 +1,1 @@
+data for performing Customer Lifetime Value (CLV) prediction 
